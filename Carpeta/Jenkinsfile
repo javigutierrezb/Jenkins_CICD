@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage("Hola mundo!"){
       steps{
-        echo "Hola mundo!"
+        echo "Hola mundo desde la Carpeta!"
       }
     }
   }
